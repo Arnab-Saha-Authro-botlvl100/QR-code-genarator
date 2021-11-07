@@ -1,0 +1,17 @@
+.main-quote{
+    font-size:2rem;
+    font-family: cursive;
+}
+.imgdiv{
+    /* background-color: red; */
+    height:100px;
+    width:100px;
+    display: flex;
+   
+}
+#image-container{
+    
+    flex-direction: column!important;
+    justify-content: center;
+    align-items: center;
+}
